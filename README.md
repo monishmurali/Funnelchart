@@ -29,6 +29,8 @@ This project comprises a React component designed to visualize demographic data 
 
 - This project utilizes the PapaParse library for CSV parsing.
 - Chart.js is used for data visualization.
-![Population Funnel Chart](Funnelchart/Screenshot 2024-03-09 at 5.21.52 PM.png)
+## image
+
+<img width="1420" alt="Screenshot 2024-03-09 at 5 21 52 PM" src="https://github.com/monishmurali/Funnelchart/assets/59603371/c12cc79f-a857-4e80-8380-7fd6156cb161">
 
 
